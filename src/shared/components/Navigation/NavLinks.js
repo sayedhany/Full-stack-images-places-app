@@ -16,7 +16,7 @@ const NavLinks = () => {
         <NavLink to="/places/new">ADD PLACE</NavLink>
       </li>
       <li>
-        <NavLink to="/auth">SIGN UP/LOG IN</NavLink>
+        <NavLink to="/auth">SIGN UP/SIGN IN</NavLink>
       </li>
     </ul>
   );

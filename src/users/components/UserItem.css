@@ -2,6 +2,7 @@
   margin: 1rem;
   width: calc(45% - 2rem);
   min-width: 17.5rem;
+  /* height: 100%; */
 }
 .user-item a {
   /* text-align: center; */
@@ -21,7 +22,8 @@
   background: #ffd900;
 }
 .user-item__content {
-  padding: 0;
+  padding: 0 !important;
+  /* background: transparent; */
 }
 .user-item__image {
   width: 4rem;
