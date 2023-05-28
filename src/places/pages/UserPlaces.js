@@ -23,7 +23,7 @@ const DUMMY_PLACES = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NYC_Empire_State_Building.jpg/640px-NYC_Empire_State_Building.jpg",
     address: "20 W 34th St, New York, NY 10001",
     location: {
-      lat: 30.2324986,
+      lat: 30.2324984,
       lng: 31.0745276,
     },
     creator: "u2",
